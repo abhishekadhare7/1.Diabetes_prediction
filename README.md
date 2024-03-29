@@ -7,4 +7,4 @@ Utilized pandas for data manipulation and preprocessing and scikit-learn for bui
 
 Implemented user interface with HTML pages for inputting data and displaying prediction results.
 
-Source- Meriskill
+Database Source- Meriskill
