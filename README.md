@@ -3,6 +3,8 @@
 
 Developed a web application using Python Django framework to predict diabetes risk based on user-provided blood data.
 
-Utilized pandas for data manipulation and preprocessing, and scikit-learn for building and evaluating machine learning models.
+Utilized pandas for data manipulation and preprocessing and scikit-learn for building and evaluating machine learning models.
 
-Implemented user interface with two HTML pages for inputting data and displaying prediction results.
+Implemented user interface with HTML pages for inputting data and displaying prediction results.
+
+Source- Meriskill
